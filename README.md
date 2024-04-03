@@ -2,3 +2,4 @@
 kheng
 pashmak
 bia
+kar

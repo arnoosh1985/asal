@@ -1,5 +1,6 @@
 # asal
-kheng
+
 pashmak
 bia
 kar
+kon

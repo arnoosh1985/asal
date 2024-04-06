@@ -4,3 +4,4 @@ pashmak
 bia
 kar
 kon
+nago

@@ -6,3 +6,4 @@ kar
 kon
 nago
 chist
+kar

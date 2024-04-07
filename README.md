@@ -5,3 +5,4 @@ bia
 kar
 kon
 nago
+chist

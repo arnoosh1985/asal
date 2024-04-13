@@ -8,3 +8,4 @@ nago
 chist
 kar
 20
+19

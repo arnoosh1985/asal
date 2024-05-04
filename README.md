@@ -7,4 +7,4 @@ kon
 nago
 chist
 kar
-29
+30
